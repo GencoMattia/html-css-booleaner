@@ -1,0 +1,16 @@
+header {
+    text-align: left;
+    height: 10rem;
+    width: 100%;
+    background-color: rgb(78, 160, 255);
+    background-image: url(../img/pattern.png);
+
+    .logo {
+        height: 50%;
+        text-align: left;
+        margin-top: 4rem;
+        margin-left: 2rem;
+    }
+    
+
+}

@@ -29,12 +29,14 @@ body {
             max-width: 100%;
             text-align: center;
             #Tim-Lee-1 {
+                max-width: 58%;
                 width: auto;
-                height: 16rem;
+                height: 100%;
             }
             #Tim-Lee-2 {
+                max-width: 50%;
                 width: auto;
-                height: 16rem;
+                height: 100%;
             }
             
         }
@@ -62,8 +64,9 @@ body {
                 background-image: url(../img/monitor.jpg);
                 background-size: contain;
                 background-repeat: no-repeat;
+                max-width: 45%;
                 width: auto;
-                height: 15rem;
+                height: 10rem;
                 text-align: left;
                 font-weight: bolder;
                 font-size: larger;
@@ -74,8 +77,9 @@ body {
                 background-image: url(../img/graph.jpg);
                 background-size: contain;
                 background-repeat: no-repeat;
+                max-width: 45%;
                 width: auto;
-                height: 15rem;
+                height: 10rem;
                 text-align: left;
                 font-weight: bolder;
                 font-size: larger;

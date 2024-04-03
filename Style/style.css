@@ -35,5 +35,20 @@ body {
             }
             
         }
+
+        table{
+            border: none;
+            text-align: left;
+            .coloumn1 {
+                width: 25%;
+            }
+            .t-head {
+                background-color: hsl(198.27deg 79.12% 51.18%);
+                color: aliceblue;
+            }
+            .blue-row {
+                background-color: hsl(192deg 71.43% 82.16%);
+            }
+        }
     }
 }

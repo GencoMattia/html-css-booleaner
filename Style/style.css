@@ -50,5 +50,32 @@ body {
                 background-color: hsl(192deg 71.43% 82.16%);
             }
         }
+
+        .interesting {
+            color: hsl(0deg 0% 49.8%);
+            width: 50%;
+            #monitor {
+                color: aliceblue;
+                background-image: url(../img/monitor.jpg);
+                background-size: contain;
+                background-repeat: no-repeat;
+                width: auto;
+                height: 15rem;
+                text-align: left;
+                font-weight: bolder;
+                font-size: larger;
+            }
+            #graph {
+                color: aliceblue;
+                background-image: url(../img/graph.jpg);
+                background-size: contain;
+                background-repeat: no-repeat;
+                width: auto;
+                height: 15rem;
+                text-align: left;
+                font-weight: bolder;
+                font-size: larger;
+            }
+        }
     }
 }

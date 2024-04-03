@@ -2,7 +2,7 @@ body {
     margin-left: 25%;
     margin-right: 25%;
     max-width: 50%;
-    
+
     header {
         text-align: left;
         height: 10rem;
@@ -18,5 +18,22 @@ body {
         }
         
 
+    }
+
+    main {
+        .photos {
+            max-height: 30%;
+            max-width: 100%;
+            text-align: center;
+            #Tim-Lee-1 {
+                width: auto;
+                height: 16rem;
+            }
+            #Tim-Lee-2 {
+                width: auto;
+                height: 16rem;
+            }
+            
+        }
     }
 }

@@ -26,8 +26,8 @@ body {
         padding: 1%;
         font-weight: 500;
         
-        .title{
-            h1{
+        .title {
+            h1 {
                 font-size: 3rem;
                 margin: 0%;
             }
@@ -68,9 +68,13 @@ body {
             }
         }
 
-       
+        .article {
+            ul {
+                padding-inline-start: 2%;
+            }
+        }
 
-        table{
+        table {
             border: none;
             text-align: left;
             .coloumn1 {

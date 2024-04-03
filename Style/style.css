@@ -24,6 +24,7 @@ body {
     main {
         background-color: white;
         padding: 1%;
+        font-weight: 500;
         
         .title{
             h1{
@@ -44,7 +45,7 @@ body {
                 margin-top: 0%;
             }
         }
-        
+
         .photos {
             max-height: 30%;
             max-width: 100%;
@@ -59,8 +60,15 @@ body {
                 width: auto;
                 height: 100%;
             }
-            
+            .photo-note {
+                font-size: 65%;
+                text-align: left;
+                margin-top: 0;
+                margin-left: 1%;
+            }
         }
+
+       
 
         table{
             border: none;
